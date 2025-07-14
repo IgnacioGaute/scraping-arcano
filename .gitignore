@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Env
+.env
+
+# Playwright
+playwright-report/
+test-results/
+
+# PDF descargados (opcional, si no querés subirlos)
+*.pdf
